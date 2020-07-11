@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am...
+
+- 🎓 Studying at MIPT and Yandex Data School
+- 🧑‍🏫 Teaching 2nd year students concurrent programming
+- 😍 Fascinated about distributed systems and concurrency
