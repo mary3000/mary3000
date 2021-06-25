@@ -21,3 +21,7 @@ I am...
 - 🎓 Studying at MIPT and Yandex Data School
 - 🧑‍🏫 Teaching 2nd year students concurrent programming
 - 😍 Fascinated about distributed systems and concurrency
+
+---
+
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary3000)](https://github.com/anuraghazra/github-readme-stats)
